@@ -24,7 +24,6 @@
 				Мёржим значится 
    git checkout develop
    git merge child
-   git pull origin child_2 // лишний раз засинхронил и перестраховался
    git merge child_2
 				Выходим из конфликта
    git add file.txt
